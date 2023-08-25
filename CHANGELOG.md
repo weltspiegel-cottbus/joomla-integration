@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.2
+
+[compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.1...v0.0.2)
+
+### 🏡 Chore
+
+- Create release artifact ([9795331](https://github.com/weltspiegel-cottbus/joomla-integration/commit/9795331))
+
+### ❤️ Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.1
 
 
