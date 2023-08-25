@@ -22,6 +22,6 @@
   </files>
 
   <updateservers>
-    <server type="extension" priority="1" name="Weltspiegel - Site Template">https://raw.githubusercontent.com/weltspiegel-cottbus/joomla-integration/main/weltspiegel_updates.xml</server>
+    <server type="extension" priority="1" name="Weltspiegel - Site Template">https://raw.githubusercontent.com/weltspiegel-cottbus/joomla-integration/main/weltspiegel-updates.xml</server>
   </updateservers>
 </extension>
