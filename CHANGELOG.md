@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.8
+
+[compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.7...v0.0.8)
+
+### 🚀 Enhancements
+
+- Add template position main-menu ([9bdd34c](https://github.com/weltspiegel-cottbus/joomla-integration/commit/9bdd34c))
+
+### ❤️ Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.7
 
 [compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.6...v0.0.7)
