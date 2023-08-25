@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.2...v0.0.3)
+
+### 🏡 Chore
+
+- Fix package step ([d6cb39f](https://github.com/weltspiegel-cottbus/joomla-integration/commit/d6cb39f))
+
+### ❤️ Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.2
 
 [compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.1...v0.0.2)
