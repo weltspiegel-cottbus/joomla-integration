@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.7
+
+[compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.6...v0.0.7)
+
+### 🩹 Fixes
+
+- Update server url. ([80f056a](https://github.com/weltspiegel-cottbus/joomla-integration/commit/80f056a))
+
+### ❤️ Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.6
 
 [compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.5...v0.0.6)
