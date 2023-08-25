@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.9
+
+[compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.8...v0.0.9)
+
+### 💅 Refactors
+
+- Rename main navigation position. ([2e133be](https://github.com/weltspiegel-cottbus/joomla-integration/commit/2e133be))
+
+### ❤️ Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.8
 
 [compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.7...v0.0.8)
