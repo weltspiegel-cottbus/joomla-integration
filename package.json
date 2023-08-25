@@ -1,5 +1,12 @@
 {
   "name": "joomla-integration",
-  "version": "0.0.1",
-  "license": "GPL-3.0"
+  "version": "0.0.0",
+  "license": "GPL-3.0",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.1.0"
+  }
 }

@@ -1,2 +1,8 @@
+# NPM dependencies
+node_modules/
+
 # Editor/IDE settings
 .idea/
+
+# Releases
+*.zip
