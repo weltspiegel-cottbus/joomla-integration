@@ -1,8 +1,9 @@
-# Projekt: Joomla Integration
+# Projekt: Joomla 4 Template
 
-## Workflow Template
+## Development Workflow
 
 - Make changes
-- Update version number in templateDetails.xml
-- Create release (npx changelogen)
-- Publish update via weltspiegel-updates.xml
+- Update version numbers in
+  - `template/templateDetails.xml`
+  - `update-manifest.xml`
+- Create release (`npx changelogen --release`)
