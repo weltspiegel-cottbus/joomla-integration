@@ -23,7 +23,7 @@
 <header>
   <nav>
     <div>
-      <jdoc:include type="modules" name="main-menu" />
+      <jdoc:include type="modules" name="navigation" />
     </div>
   </nav>
 </header>
