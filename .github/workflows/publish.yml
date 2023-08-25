@@ -21,18 +21,20 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
 
-    - name: Build and package
+    - name: Build
       run: |
         npm ci
         npm run build
-      uses: actions/upload-artifact@v2
+
+    - name: Upload
+      uses: actions/upload-artifact@v3
       with:
           name: build-artifacts
-          path: tpl-weltspiegel.zip
+          path: tpl_weltspiegel.zip
 
     - name: Create Release
       uses: softprops/action-gh-release@v1
       with:
-        files: tpl-weltspiegel.zip
+        files: tpl_weltspiegel.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
