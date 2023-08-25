@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="template" client="site" method="upgrade">
   <name>weltspiegel</name>
-  <version>0.0.8</version>
+  <version>0.0.9</version>
   <creationDate>August 2023</creationDate>
   <author>Michael Buchholz</author>
   <authorEmail>mail@michael-buchholz.com</authorEmail>
