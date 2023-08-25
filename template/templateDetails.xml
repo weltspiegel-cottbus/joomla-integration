@@ -21,6 +21,10 @@
     <folder>language</folder>
   </files>
 
+  <positions>
+    <position>main-menu</position>
+  </positions>
+
   <updateservers>
     <server type="extension" priority="1" name="Weltspiegel - Site Template">https://raw.githubusercontent.com/weltspiegel-cottbus/joomla-integration/main/weltspiegel-updates.xml</server>
   </updateservers>
