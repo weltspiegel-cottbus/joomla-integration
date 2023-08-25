@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="template" client="site" method="upgrade">
+  <name>weltspiegel</name>
+  <version>0.0.1</version>
+  <creationDate>August 2023</creationDate>
+  <author>Michael Buchholz</author>
+  <authorEmail>mail@michael-buchholz.com</authorEmail>
+  <authorUrl>https://michael-buchholz.com</authorUrl>
+  <copyright>Copyright (C) 2020 Weltspiegel Cottbus. All rights reserved.</copyright>
+  <license>GNU General Public License version 3 or later</license>
+  <description>TPL_WELTSPIEGEL_XML_DESCRIPTION</description>
+
+  <files>
+    <filename>component.php</filename>
+    <filename>error.php</filename>
+    <filename>index.php</filename>
+    <filename>offline.php</filename>
+    <filename>templateDetails.xml</filename>
+    <filename>template_preview.png</filename>
+    <filename>template_thumbnail.png</filename>
+    <folder>language</folder>
+  </files>
+</extension>
