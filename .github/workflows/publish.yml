@@ -31,3 +31,10 @@ jobs:
       with:
           name: build-artifacts
           path: tpl-weltspiegel.zip
+
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: tpl-weltspiegel.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
