@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.6
+
+[compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.5...v0.0.6)
+
+### 🚀 Enhancements
+
+- Start implementation of index page. ([03163a1](https://github.com/weltspiegel-cottbus/joomla-integration/commit/03163a1))
+
+### ❤️ Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.5
 
 [compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.4...v0.0.5)
