@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.10
+
+[compare changes](https://github.com/weltspiegel-cottbus/tpl-weltspiegel/compare/v0.0.9...v0.0.10)
+
+### 💅 Refactors
+
+- Update repository name. ([f8ad075](https://github.com/weltspiegel-cottbus/tpl-weltspiegel/commit/f8ad075))
+
+### ❤️ Contributors
+
+- Micha Buchholz <webmaster@weltspiegel-cottbus.de>
+
 ## v0.0.9
 
 [compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.8...v0.0.9)
