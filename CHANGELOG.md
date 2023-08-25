@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.5
+
+[compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.4...v0.0.5)
+
+### 🚀 Enhancements
+
+- Implement component view. ([d2e9e26](https://github.com/weltspiegel-cottbus/joomla-integration/commit/d2e9e26))
+- Configure update mechanism. ([4873957](https://github.com/weltspiegel-cottbus/joomla-integration/commit/4873957))
+
+### ❤️ Contributors
+
+- Micha Buchholz ([@lean-dev](http://github.com/lean-dev))
+
 ## v0.0.4
 
 [compare changes](https://github.com/weltspiegel-cottbus/joomla-integration/compare/v0.0.3...v0.0.4)
